@@ -120,7 +120,7 @@
 	</header>
 	<!-- End header -->
 	
-	<div class="dbm-title-box">
+	<div class="dthm-title-box">
 		<div class="container text-center">
 			<h1><span class="m_1"></span></h1>
 		</div>
@@ -130,7 +130,7 @@
         <div class="container">
             <div class="section-title row text-center">
                 <div class="col-md-8 offset-md-2">
-                    <p class="lead">The Department of Business and Management offers both undergraduate and graduate courses. These are the following:</p>
+                    <p class="lead">The Department of Tourism and Hospitality Management offers two undergraduate courses. These are the followig:</p>
                 </div>
             </div><!-- end title -->
 
@@ -144,25 +144,17 @@
 						</div>
 						<div class="course-br">
 							<div class="course-title">
-								<h2><a href="#" title="">BACHELOR OF SCIENCE IN AGRIBUSINESS(BSAB)</a></h2>
+								<h2><a href="#" title="">BACHELOR OF SCIENCE IN HOTEL MANAGEMENT (BSHM)</a></h2>
 							</div>
 							<div class="course-desc">
 								<p>Lorem ipsum door sit amet, fugiat deicata avise id cum, no quo maiorum intel ogrets geuiat operts elicata libere avisse id cumlegebat, liber regione eu sit.... </p>
 							</div>
-							<!--<div class="course-rating">
-								4.5
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star-half"></i>								
-							</div> -->
 						</div>
 						<div class="course-meta-bot">
 							<ul>
-								<li><i class="fa fa-calendar" aria-hidden="true" href="#"></i>Course Prospectus</li>
-								<li><i class="fa fa-users" aria-hidden="true" href="#"></i> Lorem ipsum</li>
-								<li><i class="fa fa-book" aria-hidden="true"href="#"></i> Lorem ipsum</li>
+								<li><i class="fa fa-calendar" aria-hidden="true"></i> 6 Month</li>
+								<li><i class="fa fa-users" aria-hidden="true"></i> 56 Student</li>
+								<li><i class="fa fa-book" aria-hidden="true"></i> 7 Books</li>
 							</ul>
 						</div>
 					</div>
@@ -175,23 +167,15 @@
 						</div>
 						<div class="course-br">
 							<div class="course-title">
-								<h2><a href="#" title="">BACHELOR OF SCIENCE IN ENTREPRENEURSHIP (SOON)</a></h2>
+								<h2><a href="#" title="">BACHELOR OF SCIENCE IN TOURISM MANAGEMENT (BSTM)</a></h2>
 							</div>
 							<div class="blog-desc">
 								<p>Lorem ipsum door sit amet, fugiat deicata avise id cum, no quo maiorum intel ogrets geuiat operts elicata libere avisse id cumlegebat, liber regione eu sit.... </p>
 							</div>
-							<!-- <div class="course-rating">
-								4.5
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star"></i>	
-								<i class="fa fa-star-half"></i>								
-							</div> -->
 						</div>
 						<div class="course-meta-bot">
 							<ul>
-								<li><i class="fa fa-calendar" aria-hidden="true" href=""></i> 6 Month</li>
+								<li><i class="fa fa-calendar" aria-hidden="true"></i> 6 Month</li>
 								<li><i class="fa fa-users" aria-hidden="true"></i> 56 Student</li>
 								<li><i class="fa fa-book" aria-hidden="true"></i> 7 Books</li>
 							</ul>
@@ -202,7 +186,7 @@
 			
 			<hr class="hr3"> 
 			
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-lg-6 col-md-6 col-12">
                     <div class="course-item">
 						<div class="image-blog">
@@ -210,19 +194,19 @@
 						</div>
 						<div class="course-br">
 							<div class="course-title">
-								<h2><a href="#" title="">MASTER OF MANAGEMENT (BUSINESS MANAGEMENT)</a></h2>
+								<h2><a href="#" title="">Biotechnology</a></h2>
 							</div>
 							<div class="course-desc">
 								<p>Lorem ipsum door sit amet, fugiat deicata avise id cum, no quo maiorum intel ogrets geuiat operts elicata libere avisse id cumlegebat, liber regione eu sit.... </p>
 							</div>
-							<!-- <div class="course-rating">
+							<div class="course-rating">
 								4.5
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star-half"></i>								
-							</div> -->
+							</div>
 						</div>
 						<div class="course-meta-bot">
 							<ul>
@@ -232,7 +216,7 @@
 							</ul>
 						</div>
 					</div>
-                </div><!-- end col -->
+                </div><!-- end col --
 				<div class="col-lg-6 col-md-6 col-12">
                    <div class="course-item">
 						<div class="image-blog">
@@ -240,19 +224,19 @@
 						</div>
 						<div class="course-br">
 							<div class="course-title">
-								<h2><a href="#" title="">MASTER OF MANAGEMENT (AGRIBUSINESS MANAGEMENT)</a></h2>
+								<h2><a href="#" title="">Medical Sciences</a></h2>
 							</div>
 							<div class="course-desc">
 								<p>Lorem ipsum door sit amet, fugiat deicata avise id cum, no quo maiorum intel ogrets geuiat operts elicata libere avisse id cumlegebat, liber regione eu sit.... </p>
 							</div>
-							<!--<div class="course-rating">
+							<div class="course-rating">
 								4.5
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star"></i>	
 								<i class="fa fa-star-half"></i>								
-							</div> -->
+							</div>
 						</div>
 						<div class="course-meta-bot">
 							<ul>
@@ -262,12 +246,12 @@
 							</ul>
 						</div>
 					</div>
-                </div><!-- end col -->
-			</div><!-- end row -->
+                </div><!-- end col --
+			</div><!-- end row --
 			
 			<hr class="hr3"> 
 			
-            <!--<div class="row"> 
+            <div class="row"> 
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="course-item">
 						<div class="image-blog">
@@ -328,7 +312,7 @@
 							</ul>
 						</div>
 					</div>
-                </div><!-- end col -->
+                </div><!-- end col --
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->
@@ -370,7 +354,7 @@
 						<div class="footer-right">
 							<ul class="footer-links-soi">
 								<li><a href="https://www.facebook.com/vsucme.official"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="https://cmevsu.github.io/"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://cmevsu.github.io/cmevsu/"><i class="fa fa-github"></i></a></li>
 								<!--<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
 								<li><a href="#"><i class="fa fa-pinterest"></i></a></li> -->
