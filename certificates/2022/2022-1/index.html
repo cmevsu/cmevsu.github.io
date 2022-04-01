@@ -10,6 +10,14 @@
   box-sizing: border-box;
 }
 
+html {
+  font-family: "Arial", sans-serif;
+}
+
+ body {
+  background-color: #fffafa;
+} */
+
 .row::after {
   content: "";
   clear: both;
@@ -21,11 +29,11 @@
   padding: 15px;
 }
 
-.col-1 {width: 100%;}
-.col-2 {width: 100%;}
-.col-3 {width: 25%;}
+.col-1 {width: 40%;}
+.col-2 {width: 50%;}
+.col-3 {width: 100%;}
 .col-4 {width: 25%;}
-.col-5 {width: 41.66%;}
+.col-5 {width: 25%;}
 .col-6 {width: 50%;}
 .col-7 {width: 58.33%;}
 .col-8 {width: 66.66%;}
@@ -34,12 +42,8 @@
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-html {
-  font-family: "Arial", sans-serif;
-}
-
 .header {
-  background-color: #a34400;
+  background-color: #333333;
   color: #ffffff;
   padding: 15px;
 }
@@ -66,7 +70,7 @@ html {
 <body>
 
 <div class="header">
-  <h1>College of Management and Economics </h1>
+	<img src="logo.png" alt="" />
   
 </div>
 
@@ -77,19 +81,23 @@ html {
 	<p> </p>
     <p>Guest Lecturer: <b> Dr. Michal Struk </b>, Masaryk University, Czech Republic</p>
 	
-	<p> Hosted by the <b>College of Management and Economics</b>, Visayas State University, ViSCA, Baybay City, Leyte, 6521-A Philippines </p>
+	<p> Hosted by the <a href="https://cmevsu.github.io/" target="_blank"> <b>College of Management and Economics</b></a>, Visayas State University, ViSCA, Baybay City, Leyte, 6521-A Philippines </p>
 	<p> Email: <b>cme@vsu.edu.ph</b>  Telephone: <b>+63 (053) 565-0600 local 1108</b> </p>
 	<p> Official advertisement: <a href="https://www.facebook.com/vsucme.official/photos/a.103896705094644/336222681862044" target="_blank"> Facebook</a></b></p>
   </div>
+  
+   <div class="col-2">
+    <img src="poster.png" alt="" size="50%" />
+  </div> 
+    
 </div>
 
 <div class="row">
-  <div class="col-2 menu">
+  <div class="col-3 menu">
 	<h3> OFFICIAL LIST OF PARTICIPANTS </h3>
   </div>
-  <div class="col-3 menu">
+  <div class="col-4 menu">
     <ul>
-	
 <li>(1) ALMAREJEN O. ABAYABAY</li>
 <li>(2) ANNA BEA S. HOYLA</li>
 <li>(3) APRIL JAE G. CUSTODIO</li>
@@ -125,7 +133,7 @@ html {
     </ul>
   </div>
 
-  <div class="col-4 menu">
+  <div class="col-5 menu">
     <ul>
 	
 <li>(31) MARIA HAZEL I. BELLEZAS</li>
